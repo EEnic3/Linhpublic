@@ -1,0 +1,2 @@
+# Linhpublic
+django project
